@@ -1,5 +1,6 @@
 # Octave
-Octave is a high level (open source) programming language similar to Matlab. I'm using it for the 2019 Stanford Machine Learning Class.
+Octave is a high level (open source) programming language similar to Matlab. 
+I'm using it for the 2019 Stanford Machine Learning Class.
 
 
 
